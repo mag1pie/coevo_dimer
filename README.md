@@ -14,3 +14,4 @@ Group project title: investigating the Implications of coevolution in heterodime
   - *_coevo.pickle: output from MRF_analysis.ipynb
   
   results_merged.ipynb provides code for data analysis and visualizations.
+  all jupyter notebooks are run on Google-Colab GPU.
