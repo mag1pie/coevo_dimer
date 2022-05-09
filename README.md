@@ -1,5 +1,6 @@
 # coevo_dimer
-CBMFW4761 group project: investigating the Implications of coevolution in heterodimeric protein complexes
+CBMFW4761 at Columbia University, SP22
+Group project title: investigating the Implications of coevolution in heterodimeric protein complexes
 
 - [Dylan Marshall](dmm2269@cumc.columbia.edu), Columbia Systems Biology PhD student
 - [Julia Urban](jau2112@cumc.columbia.edu), Columbia Systems Biology PhD student
