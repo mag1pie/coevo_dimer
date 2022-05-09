@@ -11,7 +11,7 @@ Group project title: investigating the Implications of coevolution in heterodime
   - `msa.pickle`: paired MSA from AF2 above
   - `rank_1_model_1_ptm_seed_0_relaxed.pdb`: PDB file
   - `MRF_analysis.ipynb`: MRF model 
-  - `*_coevo.pickle`: output from MRF_analysis.ipynb
+  - `*_coevo.pickle`: coevolutionary coefficient matrcies from MRF_analysis.ipynb
   
-  `results_merged.ipynb` provides code for data analysis and visualizations.
+  `results_merged.ipynb` provides code for data analysis (e.g. MSA bootstrapping) and visualizations.
   all jupyter notebooks are run on Google-Colab GPU; all package dependency requirements are addressed in corresponding notebooks.
